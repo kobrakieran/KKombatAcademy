@@ -1,0 +1,21 @@
+.backgroundheader {
+  background-color: darkred;
+}
+
+.aboutus {
+  text-align: center;
+}
+
+.meetkieran {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.imageofkieran {
+  padding-left: 15%;
+}
+
+figure figcaption {
+  padding-left: 3%;
+  font-weight: bold;
+}
